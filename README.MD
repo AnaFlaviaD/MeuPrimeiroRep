@@ -2,7 +2,7 @@
 ### Ana Flávia Dias Gomes 
 Estudante de **Desenvolvimento de Sistemas**
 
-*** Amante de: ***
+## Amante de: 
 + Fazer as unhas
 + Casos Criminais
 + Artes
